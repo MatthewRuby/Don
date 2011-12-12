@@ -1,0 +1,198 @@
+
+<!-- Left Arm -->
+<POINT>
+		<X>-30</X>
+		<Y>0</Y>
+</POINT>
+<POINT>
+		<X>-37</X>
+		<Y>50</Y>
+</POINT>
+<POINT>
+		<X>-42</X>
+		<Y>98</Y>
+</POINT>
+
+<!-- Right Arm -->
+<POINT>
+		<X>30</X>
+		<Y>0</Y>
+</POINT>
+<POINT>
+		<X>37</X>
+		<Y>50</Y>
+</POINT>
+<POINT>
+		<X>42</X>
+		<Y>98</Y>
+</POINT>
+
+<!-- Left Leg -->
+<POINT>
+		<X>-19</X>
+		<Y>82</Y>
+</POINT>
+<POINT>
+		<X>-12</X>
+		<Y>150</Y>
+</POINT>
+<POINT>
+		<X>-12</X>
+		<Y>225</Y>
+</POINT>
+
+<!-- Right Leg -->
+<POINT>
+		<X>19</X>
+		<Y>82</Y>
+</POINT>
+<POINT>
+		<X>12</X>
+		<Y>150</Y>
+</POINT>
+<POINT>
+		<X>12</X>
+		<Y>225</Y>
+</POINT>
+
+<!-- Head -->
+<POINT>
+		<X>0</X>
+		<Y>-33</Y>
+</POINT>
+
+<!-- Body -->
+<POINT>
+		<X>0</X>
+		<Y>45</Y>
+</POINT>
+
+
+<!-- Left Arm -->
+<SPRING>
+	<A>0</A>
+	<B>1</B>
+	<LENGTH>50.5</LENGTH>
+</SPRING>
+<SPRING>
+	<A>1</A>
+	<B>2</B>
+	<LENGTH>48.25</LENGTH>
+</SPRING>
+
+<!-- Right Arm -->
+<SPRING>
+	<A>3</A>
+	<B>4</B>
+	<LENGTH>50.5</LENGTH>
+</SPRING>
+<SPRING>
+	<A>4</A>
+	<B>5</B>
+	<LENGTH>48.25</LENGTH>
+</SPRING>
+
+
+<!-- Left Leg -->
+<SPRING>
+	<A>6</A>
+	<B>7</B>
+	<LENGTH>68.5</LENGTH>
+</SPRING>
+<SPRING>
+	<A>7</A>
+	<B>8</B>
+	<LENGTH>75</LENGTH>
+</SPRING>
+
+<!-- Right Leg -->
+<SPRING>
+	<A>9</A>
+	<B>10</B>
+	<LENGTH>68.5</LENGTH>
+</SPRING>
+<SPRING>
+	<A>10</A>
+	<B>11</B>
+	<LENGTH>75</LENGTH>
+</SPRING>
+
+<!-- Shoulders -->
+<SPRING>
+	<A>0</A>
+	<B>3</B>
+	<LENGTH>60</LENGTH>
+</SPRING>
+
+
+<!-- Waist -->
+<SPRING>
+	<A>6</A>
+	<B>9</B>
+	<LENGTH>38</LENGTH>
+</SPRING>
+
+<!-- Sides -->
+<SPRING>
+	<A>0</A>
+	<B>6</B>
+	<LENGTH>82.5</LENGTH>
+</SPRING>
+<SPRING>
+	<A>3</A>
+	<B>9</B>
+	<LENGTH>82.5</LENGTH>
+</SPRING>
+
+<!-- Cross -->
+<SPRING>
+	<A>0</A>
+	<B>13</B>
+	<LENGTH>54</LENGTH>
+</SPRING>
+<SPRING>
+	<A>3</A>
+	<B>13</B>
+	<LENGTH>54</LENGTH>
+</SPRING>
+
+<SPRING>
+	<A>6</A>
+	<B>13</B>
+	<LENGTH>41.5</LENGTH>
+</SPRING>
+<SPRING>
+	<A>9</A>
+	<B>13</B>
+	<LENGTH>41.5</LENGTH>
+</SPRING>
+
+<SPRING>
+	<A>0</A>
+	<B>9</B>
+	<LENGTH>95.5</LENGTH>
+</SPRING>
+<SPRING>
+	<A>3</A>
+	<B>6</B>
+	<LENGTH>95.5</LENGTH>
+</SPRING>
+
+<!-- Neck -->
+<SPRING>
+	<A>12</A>
+	<B>13</B>
+	<LENGTH>78</LENGTH>
+</SPRING>
+
+<SPRING>
+	<A>0</A>
+	<B>12</B>
+	<LENGTH>44.6</LENGTH>
+</SPRING>
+
+<SPRING>
+	<A>3</A>
+	<B>12</B>
+	<LENGTH>44.6</LENGTH>
+</SPRING>
